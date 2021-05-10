@@ -1,2 +1,2 @@
 # Bootcamp-DIO-Mangaflix
-Bootcampo Digital Innovation One
+Bootcamp Digital Innovation One
